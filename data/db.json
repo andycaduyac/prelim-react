@@ -1,0 +1,18 @@
+{
+    "visitors": [
+        {
+            "lastname": "Perez",
+            "firstname": "Emilio",
+            "purpose": "Bills Payment",
+            "date": "12/09/2022",
+            "id": 1
+        },
+        {
+            "lastname": "Caduyac",
+            "firstname": "Andy",
+            "purpose": "Bills Payment",
+            "date": "12/09/2022",
+            "id": 2
+        }
+    ]
+}
